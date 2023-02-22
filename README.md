@@ -3,6 +3,7 @@
 Estudante da área de desenvolvimento com foco em Front-End. 
 
 ## GITHUB
+
 [![Anurag's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohpp-dev&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohpp-dev&layout=compact&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
